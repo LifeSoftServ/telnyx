@@ -3,7 +3,7 @@ package messaging
 import (
 	"net/http"
 
-	"github.com/tgbv/telnyx-golang/internal"
+	"github.com/lifesoftserv/telnyx/internal"
 )
 
 // aliases
