@@ -3,11 +3,11 @@ package pkg
 import (
 	"net/http"
 
-	"github.com/tgbv/telnyx-golang/config"
-	"github.com/tgbv/telnyx-golang/internal"
-	"github.com/tgbv/telnyx-golang/internal/messaging"
-	"github.com/tgbv/telnyx-golang/internal/numbers"
-	"github.com/tgbv/telnyx-golang/internal/verify"
+	"github.com/lifesoftserv/telnyx/config"
+	"github.com/lifesoftserv/telnyx/internal"
+	"github.com/lifesoftserv/telnyx/internal/messaging"
+	"github.com/lifesoftserv/telnyx/internal/numbers"
+	"github.com/lifesoftserv/telnyx/internal/verify"
 )
 
 /*
