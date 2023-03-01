@@ -1,6 +1,6 @@
 package internal
 
-import "github.com/tgbv/telnyx-golang/config"
+import "github.com/lifesoftserv/telnyx/config"
 
 /*
 *	holds the telnyx configuration
