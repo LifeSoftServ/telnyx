@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	tyx "github.com/tgbv/telnyx-golang/pkg"
+	tyx "github.com/lifesoftserv/telnyx/pkg"
 )
 
 const TARGET_PHONE = ""
