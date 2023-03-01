@@ -1,3 +1,3 @@
-module github.com/LifeSoftServ/telnyx
+module github.com/lifesoftserv/telnyx
 
 go 1.15
